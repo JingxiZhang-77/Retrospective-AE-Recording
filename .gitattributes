@@ -1,0 +1,4 @@
+# Preserve exact bytes for snapshot hashes and delivery comparisons.
+* -text
+*.pdf binary
+*.zip binary

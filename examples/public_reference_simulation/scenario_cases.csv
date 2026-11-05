@@ -1,0 +1,15 @@
+case_id,finding_id,expected_check,initial_problem,scripted_resolution
+SIM-C01,OBS-0003,REVIEW,Required mock review omitted,Supply the scripted confirmed reply and refresh the decision
+SIM-C02,OBS-0018,REVIEW,Conflicting assessment/checkbox without authorization,Document the scripted precedence instruction
+SIM-C03,OBS-0007,AE,Modified management with unsupported no-intervention comment,Use the scripted reviewer comment and reconcile action fields
+SIM-C04,OBS-0008,AE,Authorized grade override not carried into AE data,Apply the documented synthetic override across outputs
+SIM-C05,OBS-0028,AE,Reviewed term not carried into field 26,Transfer the scripted confirmed term
+SIM-C06,OBS-0017,AE,Comment exceeds the target length,Use the scripted reviewer-approved replacement
+SIM-C07,OBS-0013,LISTING,Unitless ECG interpretation missing from listing/PDF,Restore the complete qualitative source result
+SIM-C08,OBS-0021,DECISION,Manual recording lacks stored-record evidence,Restore the linked simulated EDC record
+SIM-C09,OBS-0043,EDC,Expected stored AE is missing,Reconcile the local fictional download
+SIM-C10,,EDC,Undocumented extra stored AE,Remove the deliberately injected extra record
+SIM-C11,,XML_STRUCTURE,Null ItemData omitted,Include the expected item with IsNull=Yes
+SIM-C12,,XML_STRUCTURE,Wrong target study metadata,Use the declared fictional training target
+SIM-C13,,ACTIVATION,No-AE subject incorrectly activated Yes,Use the approved synthetic subject decision
+SIM-C14,,PACKAGE,ZIP contains an older report version,Rebuild from the checked current files

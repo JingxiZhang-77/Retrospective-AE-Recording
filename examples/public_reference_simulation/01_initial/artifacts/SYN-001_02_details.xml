@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:ODM xmlns:ns0="http://www.cdisc.org/ns/odm/v1.3" ODMVersion="1.3" FileType="Transactional" FileOID="SYNTHETIC-SYN-001" CreationDateTime="2027-02-20T12:00:00+00:00">
+  <ns0:ClinicalData StudyOID="SYNTHETIC-WORKFLOW(Training)" MetaDataVersionOID="SIM-METADATA-1">
+    <ns0:SubjectData SubjectKey="SYN-001">
+      <ns0:StudyEventData StudyEventOID="COM" StudyEventRepeatKey="1">
+        <ns0:FormData FormOID="AE1" FormRepeatKey="1">
+          <ns0:ItemGroupData ItemGroupOID="AE1_LOG_LINE" ItemGroupRepeatKey="1" TransactionType="Upsert">
+            <ns0:ItemData ItemOID="AE1.AETERM" Value="Hemoglobin finding" />
+            <ns0:ItemData ItemOID="AE1.AELOCREL" Value="N" />
+            <ns0:ItemData ItemOID="AE1.POTLAST" Value="N" />
+            <ns0:ItemData ItemOID="AE1.WHARAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.ORAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AESTDAT" Value="2027-01-12" />
+            <ns0:ItemData ItemOID="AE1.AESTTIM" Value="09:00" />
+            <ns0:ItemData ItemOID="AE1.AEONGO" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENDAT" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENTIM" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDTDET" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AETOXGR" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AESER" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AEREL" Value="6" />
+            <ns0:ItemData ItemOID="AE1.AEACN" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AENONE" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AECONMED" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AECONTHP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTH" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTHSP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEOUT1" Value="7" />
+            <ns0:ItemData ItemOID="AE1.SEQUELAE" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDIS" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AETERMPI" Value="Hemoglobin finding" />
+            <ns0:ItemData ItemOID="AE1.COMMENTS" Value="No associated symptoms or additional intervention were reported in this simulated assessment." />
+          </ns0:ItemGroupData>
+          <ns0:ItemGroupData ItemGroupOID="AE1_LOG_LINE" ItemGroupRepeatKey="2" TransactionType="Upsert">
+            <ns0:ItemData ItemOID="AE1.AETERM" Value="Fasting glucose finding" />
+            <ns0:ItemData ItemOID="AE1.AELOCREL" Value="N" />
+            <ns0:ItemData ItemOID="AE1.POTLAST" Value="N" />
+            <ns0:ItemData ItemOID="AE1.WHARAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.ORAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AESTDAT" Value="2027-01-12" />
+            <ns0:ItemData ItemOID="AE1.AESTTIM" Value="09:10" />
+            <ns0:ItemData ItemOID="AE1.AESTUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEONGO" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENDAT" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENTIM" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDTDET" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AETOXGR" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AESER" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AEREL" Value="6" />
+            <ns0:ItemData ItemOID="AE1.AEACN" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AENONE" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AECONMED" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AECONTHP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTH" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTHSP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEOUT1" Value="7" />
+            <ns0:ItemData ItemOID="AE1.SEQUELAE" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDIS" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AETERMPI" Value="Fasting glucose finding" />
+            <ns0:ItemData ItemOID="AE1.COMMENTS" Value="No associated symptoms or additional intervention were reported in this simulated assessment." />
+          </ns0:ItemGroupData>
+          <ns0:ItemGroupData ItemGroupOID="AE1_LOG_LINE" ItemGroupRepeatKey="3" TransactionType="Upsert">
+            <ns0:ItemData ItemOID="AE1.AETERM" Value="PR interval finding" />
+            <ns0:ItemData ItemOID="AE1.AELOCREL" Value="N" />
+            <ns0:ItemData ItemOID="AE1.POTLAST" Value="N" />
+            <ns0:ItemData ItemOID="AE1.WHARAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.ORAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AESTDAT" Value="2027-01-12" />
+            <ns0:ItemData ItemOID="AE1.AESTTIM" Value="09:20" />
+            <ns0:ItemData ItemOID="AE1.AESTUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEONGO" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENDAT" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENTIM" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDTDET" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AETOXGR" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AESER" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AEREL" Value="6" />
+            <ns0:ItemData ItemOID="AE1.AEACN" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AENONE" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AECONMED" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AECONTHP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTH" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTHSP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEOUT1" Value="7" />
+            <ns0:ItemData ItemOID="AE1.SEQUELAE" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDIS" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AETERMPI" Value="PR interval finding" />
+            <ns0:ItemData ItemOID="AE1.COMMENTS" Value="No associated symptoms or additional intervention were reported in this simulated assessment." />
+          </ns0:ItemGroupData>
+          <ns0:ItemGroupData ItemGroupOID="AE1_LOG_LINE" ItemGroupRepeatKey="4" TransactionType="Upsert">
+            <ns0:ItemData ItemOID="AE1.AETERM" Value="Oxygen saturation finding" />
+            <ns0:ItemData ItemOID="AE1.AELOCREL" Value="N" />
+            <ns0:ItemData ItemOID="AE1.POTLAST" Value="N" />
+            <ns0:ItemData ItemOID="AE1.WHARAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.ORAE" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AESTDAT" Value="2027-01-12" />
+            <ns0:ItemData ItemOID="AE1.AESTTIM" Value="09:40" />
+            <ns0:ItemData ItemOID="AE1.AESTUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEONGO" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENDAT" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENTIM" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEENUNK" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDTDET" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AETOXGR" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AESER" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AEREL" Value="6" />
+            <ns0:ItemData ItemOID="AE1.AEACN" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AENONE" Value="1" />
+            <ns0:ItemData ItemOID="AE1.AECONMED" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AECONTHP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTH" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEACNOTHSP" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEOUT1" Value="7" />
+            <ns0:ItemData ItemOID="AE1.SEQUELAE" IsNull="Yes" />
+            <ns0:ItemData ItemOID="AE1.AEDIS" Value="N" />
+            <ns0:ItemData ItemOID="AE1.AETERMPI" Value="Oxygen saturation finding" />
+            <ns0:ItemData ItemOID="AE1.COMMENTS" Value="No associated symptoms or additional intervention were reported in this simulated assessment." />
+          </ns0:ItemGroupData>
+        </ns0:FormData>
+      </ns0:StudyEventData>
+    </ns0:SubjectData>
+  </ns0:ClinicalData>
+</ns0:ODM>

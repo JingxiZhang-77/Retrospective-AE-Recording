@@ -1,0 +1,26 @@
+{
+  "seed": 20261105,
+  "subjects": 20,
+  "observations": 100,
+  "domains": {
+    "LAB": 40,
+    "ECG": 20,
+    "VS": 40
+  },
+  "review_requests": 65,
+  "in_scope_observations": 66,
+  "routes": {
+    "automated": 60,
+    "excluded": 37,
+    "manual": 2,
+    "existing": 1
+  },
+  "retained_ae": 60,
+  "edc_ae": 63,
+  "activation": {
+    "Y": 18,
+    "N": 2
+  },
+  "cases": 14,
+  "fictional": true
+}

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the reviewed software version when referring to this toolkit."
+type: software
+title: "Finding-to-AE Review Toolkit"
+version: "0.1.0"
+url: "https://github.com/JingxiZhang-77/Retrospective-AE-Recording"
+repository-code: "https://github.com/JingxiZhang-77/Retrospective-AE-Recording"
+authors:
+  - family-names: Zhang
+    given-names: Jingxi
+    affiliation: Quantive Intelligence
+abstract: >-
+  A read-only, metadata-configured reference implementation for checking source
+  finding coverage, investigator reviews, recording decisions, AE fields,
+  listings, ODM transactions, stored EDC records, and delivery consistency.
+  Public examples are fictional. Production qualification and publication terms
+  require organizational approval.
+keywords:
+  - clinical data management
+  - adverse events
+  - reconciliation
+  - traceability
+  - metadata
+

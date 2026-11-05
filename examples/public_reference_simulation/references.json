@@ -1,0 +1,41 @@
+{
+  "accessed": "2026-11-05",
+  "method": "Public data documentation informed field names, units, and table structure only. No participant data were downloaded, sampled, linked, or fitted. Values, demonstration bands, severity codes, reviews, decisions, and target metadata are independently fictional.",
+  "seed": 20261105,
+  "references": [
+    {
+      "reference_id": "NHANES-CBC",
+      "title": "NHANES 2017-2018 Complete Blood Count with 5-Part Differential",
+      "version": "2017-2018 (CBC_J)",
+      "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/CBC_J.htm",
+      "fields": "Hemoglobin (LBXHGB, g/dL); WBC (LBXWBCSI, 1000 cells/uL); platelets (LBXPLTSI, 1000 cells/uL)",
+      "use": "Variable names and units only; no participant rows sampled."
+    },
+    {
+      "reference_id": "NHANES-GLU",
+      "title": "NHANES 2017-2018 Plasma Fasting Glucose",
+      "version": "2017-2018 (GLU_J)",
+      "url": "https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/GLU_J.htm",
+      "fields": "Fasting glucose (LBXGLU, mg/dL)",
+      "use": "Variable type and units only; no population distribution fitted."
+    },
+    {
+      "reference_id": "PTBXL-PLUS",
+      "title": "PTB-XL+, a comprehensive electrocardiographic feature dataset",
+      "version": "1.0.1",
+      "url": "https://physionet.org/content/ptb-xl-plus/1.0.1/",
+      "doi": "10.13026/g6h6-7g88",
+      "fields": "ECG intervals in ms; record-level feature tables and diagnostic-statement context",
+      "use": "Tabular ECG structure and units only; no ECG records or waveforms copied."
+    },
+    {
+      "reference_id": "BIDMC",
+      "title": "BIDMC PPG and Respiration Dataset",
+      "version": "1.0.0",
+      "url": "https://physionet.org/content/bidmc/1.0.0/",
+      "doi": "10.13026/C2208R",
+      "fields": "Heart rate (beats/min); respiratory rate (breaths/min); oxygen saturation (%)",
+      "use": "Numeric vital-sign field definitions only; no waveform/numeric patient rows copied."
+    }
+  ]
+}

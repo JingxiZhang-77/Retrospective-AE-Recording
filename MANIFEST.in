@@ -1,0 +1,13 @@
+include README.md LICENSE CITATION.cff SECURITY.md
+include run_review.py .gitignore
+graft src
+graft tests
+graft docs
+graft examples
+graft scripts
+graft .github
+prune reports
+prune private_data
+prune dist
+prune build
+global-exclude __pycache__ *.py[cod]

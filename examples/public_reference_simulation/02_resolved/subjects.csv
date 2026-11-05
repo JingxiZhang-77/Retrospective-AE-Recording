@@ -1,0 +1,21 @@
+subject_id,expected_ae,coverage_confirmed,authorized_by,authorized_at
+SYN-001,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-002,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-003,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-004,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-005,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-006,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-007,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-008,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-009,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-010,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-011,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-012,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-013,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-014,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-015,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-016,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-017,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-018,Y,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-019,N,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00
+SYN-020,N,true,Simulated Medical Reviewer,2027-02-20T12:00:00+00:00

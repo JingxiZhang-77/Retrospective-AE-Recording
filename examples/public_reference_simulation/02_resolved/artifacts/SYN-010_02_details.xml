@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ODM xmlns="http://www.cdisc.org/ns/odm/v1.3" ODMVersion="1.3" FileType="Transactional" FileOID="SYNTHETIC-SYN-010" CreationDateTime="2027-02-20T12:00:00+00:00">
+  <ClinicalData StudyOID="SYNTHETIC-WORKFLOW(Training)" MetaDataVersionOID="SIM-METADATA-1">
+    <SubjectData SubjectKey="SYN-010">
+      <StudyEventData StudyEventOID="COM" StudyEventRepeatKey="1">
+        <FormData FormOID="AE1" FormRepeatKey="1">
+          <ItemGroupData ItemGroupOID="AE1_LOG_LINE" ItemGroupRepeatKey="2" TransactionType="Upsert">
+            <ItemData ItemOID="AE1.AETERM" Value="Fasting glucose finding" />
+            <ItemData ItemOID="AE1.AELOCREL" Value="N" />
+            <ItemData ItemOID="AE1.POTLAST" Value="N" />
+            <ItemData ItemOID="AE1.WHARAE" Value="N" />
+            <ItemData ItemOID="AE1.ORAE" Value="N" />
+            <ItemData ItemOID="AE1.AESTDAT" Value="2027-01-30" />
+            <ItemData ItemOID="AE1.AESTTIM" Value="09:10" />
+            <ItemData ItemOID="AE1.AESTUNK" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEONGO" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEENDAT" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEENTIM" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEENUNK" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEDTDET" Value="1" />
+            <ItemData ItemOID="AE1.AETOXGR" Value="1" />
+            <ItemData ItemOID="AE1.AESER" Value="N" />
+            <ItemData ItemOID="AE1.AEREL" Value="6" />
+            <ItemData ItemOID="AE1.AEACN" Value="1" />
+            <ItemData ItemOID="AE1.AENONE" Value="1" />
+            <ItemData ItemOID="AE1.AECONMED" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AECONTHP" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEACNOTH" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEACNOTHSP" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEOUT1" Value="7" />
+            <ItemData ItemOID="AE1.SEQUELAE" IsNull="Yes" />
+            <ItemData ItemOID="AE1.AEDIS" Value="N" />
+            <ItemData ItemOID="AE1.AETERMPI" Value="Fasting glucose finding" />
+            <ItemData ItemOID="AE1.COMMENTS" Value="No associated symptoms or additional intervention were reported in this simulated assessment." />
+          </ItemGroupData>
+        </FormData>
+      </StudyEventData>
+    </SubjectData>
+  </ClinicalData>
+</ODM>

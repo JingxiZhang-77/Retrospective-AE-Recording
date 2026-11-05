@@ -1,0 +1,152 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [4 0 R 6 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1857 >>
+stream
+BT /F1 8 Tf 10 TL 40 755 Td
+(FICTIONAL WORKFLOW DEMONSTRATION - NOT FOR CLINICAL USE) Tj T*
+(Subject: SYN-016) Tj T*
+(Record: SIM-AE-OBS-0077) Tj T*
+(term: Fasting glucose finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-02-11) Tj T*
+(start_time: 09:10) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: Fasting glucose finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+(assessment.) Tj T*
+(source_result: 126) Tj T*
+(source_unit: mg/dL) Tj T*
+(source_test: Fasting glucose) Tj T*
+(source_specimen: PLASMA) Tj T*
+(source_category: CHEMISTRY) Tj T*
+(source_assessment_datetime: 2027-02-11 09:10:00) Tj T*
+(Record: SIM-AE-OBS-0078) Tj T*
+(term: QT interval finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-02-11) Tj T*
+(start_time: 09:20) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: QT interval finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1221 >>
+stream
+BT /F1 8 Tf 10 TL 40 755 Td
+(assessment.) Tj T*
+(source_result: 474) Tj T*
+(source_unit: ms) Tj T*
+(source_test: QT interval) Tj T*
+(source_specimen:) Tj T*
+(source_category: ECG) Tj T*
+(source_assessment_datetime: 2027-02-11 09:20:00) Tj T*
+(Record: SIM-AE-OBS-0080) Tj T*
+(term: Oxygen saturation finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-02-11) Tj T*
+(start_time: 09:40) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: Oxygen saturation finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+(assessment.) Tj T*
+(source_result: 92) Tj T*
+(source_unit: %) Tj T*
+(source_test: Oxygen saturation) Tj T*
+(source_specimen:) Tj T*
+(source_category: VS) Tj T*
+(source_assessment_datetime: 2027-02-11 09:40:00) Tj T*
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000002226 00000 n 
+0000002352 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+3625
+%%EOF

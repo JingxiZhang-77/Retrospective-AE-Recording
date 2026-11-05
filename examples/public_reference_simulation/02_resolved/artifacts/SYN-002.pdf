@@ -1,0 +1,199 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [4 0 R 6 0 R 8 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1939 >>
+stream
+BT /F1 8 Tf 10 TL 40 755 Td
+(FICTIONAL WORKFLOW DEMONSTRATION - NOT FOR CLINICAL USE) Tj T*
+(Subject: SYN-002) Tj T*
+(Record: SIM-AE-OBS-0006) Tj T*
+(term: White blood cell count finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-01-14) Tj T*
+(start_time: 09:00) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: White blood cell count finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+(assessment.) Tj T*
+(source_result: 13.7) Tj T*
+(source_unit: 1000 cells/uL) Tj T*
+(source_test: White blood cell count) Tj T*
+(source_specimen: BLOOD) Tj T*
+(source_category: HEMATOLOGY) Tj T*
+(source_assessment_datetime: 2027-01-14 09:00:00) Tj T*
+(Record: SIM-AE-OBS-0007) Tj T*
+(term: Fasting glucose finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-01-14) Tj T*
+(start_time: 09:10) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action:) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action: 1) Tj T*
+(other_action_specify: Simulated monitoring schedule adjustment) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: Fasting glucose finding) Tj T*
+(comments: The fictional reviewer documented a change in the monitoring schedule; no associated) Tj T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1787 >>
+stream
+BT /F1 8 Tf 10 TL 40 755 Td
+(symptoms were reported.) Tj T*
+(source_result: 137) Tj T*
+(source_unit: mg/dL) Tj T*
+(source_test: Fasting glucose) Tj T*
+(source_specimen: PLASMA) Tj T*
+(source_category: CHEMISTRY) Tj T*
+(source_assessment_datetime: 2027-01-14 09:10:00) Tj T*
+(Record: SIM-AE-OBS-0008) Tj T*
+(term: QT interval finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-01-14) Tj T*
+(start_time: 09:20) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: QT interval finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+(assessment.) Tj T*
+(source_result: 487) Tj T*
+(source_unit: ms) Tj T*
+(source_test: QT interval) Tj T*
+(source_specimen:) Tj T*
+(source_category: ECG) Tj T*
+(source_assessment_datetime: 2027-01-14 09:20:00) Tj T*
+(Record: SIM-AE-OBS-0009) Tj T*
+(term: Heart rate finding) Tj T*
+(local_related: N) Tj T*
+(last_related: N) Tj T*
+(wound_related: N) Tj T*
+(opioid_related: N) Tj T*
+(start_date: 2027-01-14) Tj T*
+(start_time: 09:30) Tj T*
+(start_time_unknown:) Tj T*
+(ongoing:) Tj T*
+(end_date:) Tj T*
+(end_time:) Tj T*
+(end_time_unknown:) Tj T*
+(stop_indeterminate: 1) Tj T*
+(grade: 1) Tj T*
+(serious: N) Tj T*
+(relatedness: 6) Tj T*
+(drug_action: 1) Tj T*
+(no_action: 1) Tj T*
+(conmed:) Tj T*
+(procedure:) Tj T*
+(other_action:) Tj T*
+(other_action_specify:) Tj T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 446 >>
+stream
+BT /F1 8 Tf 10 TL 40 755 Td
+(outcome: 7) Tj T*
+(sequelae:) Tj T*
+(discontinued: N) Tj T*
+(pi_term: Heart rate finding) Tj T*
+(comments: No associated symptoms or additional intervention were reported in this simulated) Tj T*
+(assessment.) Tj T*
+(source_result: 109) Tj T*
+(source_unit: beats/min) Tj T*
+(source_test: Heart rate) Tj T*
+(source_specimen:) Tj T*
+(source_category: VS) Tj T*
+(source_assessment_datetime: 2027-01-14 09:30:00) Tj T*
+ET
+endstream
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000000323 00000 n 
+0000002314 00000 n 
+0000002440 00000 n 
+0000004279 00000 n 
+0000004405 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+4902
+%%EOF

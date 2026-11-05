@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finding-ae-review"
+version = "0.1.0"
+description = "Finding-to-AE review, reconciliation, and evidence reporting"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "LicenseRef-Proprietary"
+license-files = ["LICENSE"]
+keywords = ["clinical-data", "reconciliation", "metadata", "data-quality", "odm"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Topic :: Scientific/Engineering",
+]
+
+[project.optional-dependencies]
+excel = ["openpyxl>=3.1,<4"]
+pdf = ["pypdf>=5,<7"]
+all = ["openpyxl>=3.1,<4", "pypdf>=5,<7"]
+
+[project.scripts]
+finding-ae-review = "finding_ae_review.cli:main"
+
+[project.urls]
+Repository = "https://github.com/JingxiZhang-77/Retrospective-AE-Recording"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
